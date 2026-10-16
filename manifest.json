@@ -1,16 +1,27 @@
+
 {
-  "background_color": "#ffffff",
-  "dir": "ltr",
-  "display": "fullscreen",
-  "name": "Sector ZerØ",
-  "orientation": "landscape",
-  "scope": "/",
+  "id": "./",
+  "name": "Sector ZerØ Mobile",
   "short_name": "Sector ZerØ",
-  "start_url": "/",
-  "theme_color": "#ffffff",
-  "categories": [
-    "games"
-  ],
-  "lang": "en",
-  "description": "A horror climbing game"
+  "description": "A horror game about climbing",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#050505",
+  "theme_color": "#080b10",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
 }
