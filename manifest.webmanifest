@@ -1,0 +1,14 @@
+
+{
+  "id": "./",
+  "name": "My Mobile Game",
+  "short_name": "My Game",
+  "description": "A mobile game",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#101018",
+  "theme_color": "#101018",
+  "icons": []
+}
