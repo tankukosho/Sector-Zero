@@ -1,0 +1,16 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "fullscreen",
+  "name": "Sector ZerØ",
+  "orientation": "landscape",
+  "scope": "/",
+  "short_name": "Sector ZerØ",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [
+    "games"
+  ],
+  "lang": "en",
+  "description": "A horror climbing game"
+}
