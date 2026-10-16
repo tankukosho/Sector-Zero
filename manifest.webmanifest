@@ -1,14 +1,27 @@
 
 {
   "id": "./",
-  "name": "My Mobile Game",
-  "short_name": "My Game",
-  "description": "A mobile game",
+  "name": "Sector ZerØ Mobile",
+  "short_name": "Sector ZerØ",
+  "description": "Sector ZerØ mobile game",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "orientation": "any",
-  "background_color": "#101018",
-  "theme_color": "#101018",
-  "icons": []
+  "orientation": "landscape",
+  "background_color": "#050505",
+  "theme_color": "#080b10",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
 }
